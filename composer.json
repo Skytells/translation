@@ -6,7 +6,7 @@
         "php": ">=5.6.4",
         "skytells/contracts": "1.*",
         "skytells/filesystem": "1.*",
-        "skytells/support": "5.4.*"
+        "skytells/support": "1.*"
     },
     "autoload": {
         "psr-4": {
